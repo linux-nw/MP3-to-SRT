@@ -12,7 +12,7 @@
 ## Installation
 1. Install Python 3.x and required libraries (`whisper`, `srt`, optionally `pydub`)  
 2. Download or clone the repository  
-3. Run `python script_name.py`  
+3. Run `python MP3-to-SRT.py`  
 4. Use the interface to select audio and generate SRT  
 
 ## Notes
